@@ -1,0 +1,12 @@
+[
+    { "key": "title",     "label": "Title",                "required": false,  "placeholder": "e.g., Under the Plum Tree" },
+    { "key": "narrator",  "label": "Narrator / Author",    "required": false,  "placeholder": "e.g., Maria Chen" },
+    { "key": "timeframe", "label": "Date / Timeframe",     "required": true,  "placeholder": "e.g., Spring 1998" },
+    { "key": "place",     "label": "Place / Setting",      "required": true,  "placeholder": "e.g., A seaside town in Aotearoa" },
+    { "key": "people",    "label": "People Involved",      "required": true,  "placeholder": "e.g., Grandma Li, my cousin" },
+    { "key": "event",     "label": "Memory / Event",       "required": true,  "placeholder": "What happened?" },
+    { "key": "emotion",   "label": "Emotion / Reflection", "required": true,  "placeholder": "How did it make you feel?" },
+    { "key": "visuals",   "label": "Media / Visuals",      "required": false, "placeholder": "Imagery you'd like in the picture" },
+    { "key": "tags",      "label": "Tags / Themes",        "required": false, "placeholder": "e.g., nostalgia, family" },
+    { "key": "signature", "label": "Signature / Authorship","required": false, "placeholder": "e.g., — Maria" }
+  ]
